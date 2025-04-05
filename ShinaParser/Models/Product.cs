@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -32,8 +33,41 @@ public class Product
     //- в наявності(так / ні)
     public bool IsAvailable { get; set; }
 
+    [NotMapped] // не створювати поле в БД
+    public string? Comment { get; set; } = null!;
+
+    public int? CountryId { get; set; }
     public virtual Country? Country { get; set; } = null!;
 
     public virtual Brand Brand { get; set; } = null!;
+
+    /*
+     * 
+     * 
+     * 1000 products
+     * 100 / brand
+     * 
+     * index  brandId
+     * 
+     * 1 , адреси запису,
+     * 2 , адреси запису,
+     * 3 , адреси запису,
+     * 4 , адреси запису,
+     * 
+     * 
+     * brandId
+     * 1 +
+     * 2 -
+     * 1 +
+     * 3 -
+     * 5
+     * 1
+     * 2
+     * 3
+     * 4
+     * 1
+     * 2
+     * 
+     */
 
 }
