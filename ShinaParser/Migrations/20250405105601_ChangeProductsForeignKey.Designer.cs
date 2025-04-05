@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ShinaParser.Models;
 
@@ -11,9 +12,11 @@ using ShinaParser.Models;
 namespace ShinaParser.Migrations
 {
     [DbContext(typeof(ParserContext))]
-    partial class ParserContextModelSnapshot : ModelSnapshot
+    [Migration("20250405105601_ChangeProductsForeignKey")]
+    partial class ChangeProductsForeignKey
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -39,7 +42,7 @@ namespace ShinaParser.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("product_brands", (string)null);
+                    b.ToTable("product_brands");
                 });
 
             modelBuilder.Entity("ShinaParser.Models.Country", b =>
@@ -57,10 +60,7 @@ namespace ShinaParser.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Title")
-                        .IsUnique();
-
-                    b.ToTable("countries", (string)null);
+                    b.ToTable("Countries");
                 });
 
             modelBuilder.Entity("ShinaParser.Models.Product", b =>
@@ -114,7 +114,7 @@ namespace ShinaParser.Migrations
 
                     b.HasIndex("country_model_id");
 
-                    b.ToTable("Products", (string)null);
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("ShinaParser.Models.Product", b =>

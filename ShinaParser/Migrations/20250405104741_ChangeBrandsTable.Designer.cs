@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ShinaParser.Models;
 
@@ -11,9 +12,11 @@ using ShinaParser.Models;
 namespace ShinaParser.Migrations
 {
     [DbContext(typeof(ParserContext))]
-    partial class ParserContextModelSnapshot : ModelSnapshot
+    [Migration("20250405104741_ChangeBrandsTable")]
+    partial class ChangeBrandsTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -39,7 +42,7 @@ namespace ShinaParser.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("product_brands", (string)null);
+                    b.ToTable("product_brands");
                 });
 
             modelBuilder.Entity("ShinaParser.Models.Country", b =>
@@ -57,10 +60,7 @@ namespace ShinaParser.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Title")
-                        .IsUnique();
-
-                    b.ToTable("countries", (string)null);
+                    b.ToTable("Countries");
                 });
 
             modelBuilder.Entity("ShinaParser.Models.Product", b =>
@@ -77,6 +77,9 @@ namespace ShinaParser.Migrations
                         .HasColumnType("nvarchar(20)");
 
                     b.Property<int>("BrandId")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("CountryId")
                         .HasColumnType("int");
 
                     b.Property<string>("ImageUrl")
@@ -105,16 +108,13 @@ namespace ShinaParser.Migrations
                     b.Property<int?>("Year")
                         .HasColumnType("int");
 
-                    b.Property<int?>("country_model_id")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
                     b.HasIndex("BrandId");
 
-                    b.HasIndex("country_model_id");
+                    b.HasIndex("CountryId");
 
-                    b.ToTable("Products", (string)null);
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("ShinaParser.Models.Product", b =>
@@ -127,7 +127,7 @@ namespace ShinaParser.Migrations
 
                     b.HasOne("ShinaParser.Models.Country", "Country")
                         .WithMany("Products")
-                        .HasForeignKey("country_model_id");
+                        .HasForeignKey("CountryId");
 
                     b.Navigation("Brand");
 
