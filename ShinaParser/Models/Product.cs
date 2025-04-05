@@ -32,7 +32,7 @@ public class Product
     //- в наявності(так / ні)
     public bool IsAvailable { get; set; }
 
-    public virtual Country Country { get; set; } = null!;
+    public virtual Country? Country { get; set; } = null!;
 
     public virtual Brand Brand { get; set; } = null!;
 

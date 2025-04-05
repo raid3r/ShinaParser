@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ShinaParser.Models;
 
@@ -11,9 +12,11 @@ using ShinaParser.Models;
 namespace ShinaParser.Migrations
 {
     [DbContext(typeof(ParserContext))]
-    partial class ParserContextModelSnapshot : ModelSnapshot
+    [Migration("20250405094414_NullableCountry")]
+    partial class NullableCountry
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
