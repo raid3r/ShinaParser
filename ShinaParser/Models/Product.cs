@@ -13,6 +13,7 @@ public class Product
     public int Id { get; set; }
 
     [MaxLength(100)]
+    [Column("title")] // назва
     public string Title { get; set; } = null!;
     //- артикль
     [MaxLength(20)]

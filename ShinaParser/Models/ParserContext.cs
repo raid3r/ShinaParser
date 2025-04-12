@@ -34,7 +34,7 @@ public class ParserContext : DbContext
         modelBuilder.Entity<Brand>()
             .Property(b => b.Id)
             //.HasColumnType("BIGINT")
-            .HasColumnName("brand_id")
+            .HasColumnName("brand_id") // BrandId => brand_id
             .UseIdentityColumn();
 
         // set column name for Title

@@ -168,6 +168,11 @@ public class PageParser
                     }
                 }
 
+                // select
+                // UPDATE
+
+
+
                 var product = await context.Products.FirstOrDefaultAsync(x => x.Article == article);
                 if (product == null)
                 {
