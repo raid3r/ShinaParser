@@ -1,0 +1,787 @@
+﻿Id,Title,Article,Price,ImageUrl,Season,Size,Year,IsAvailable,CountryId,BrandId,Id,Title,Id,Title
+1,Goodyear Eagle Sport 2 205/55 R16 91V,225690,2989.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2025,True,1,1,1,Туреччина,1,Goodyear
+2,Michelin Primacy 4 185/65 R15 88T,182903,3379.00,https://infoshina.com.ua/media/images/thumbs/Gx3kZHLzQIDD.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+3,Debica Presto HP2 205/55 R16 91V,201408,2579.00,https://infoshina.com.ua/media/images/thumbs/Debica_Presto_HP_2_0_degree.750x750.jpg,літні,,2025,True,3,3,3,Словенія,3,Debica
+4,Continental PremiumContact 6 195/65 R15 91H,190395,3559.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2025,True,4,4,4,Німеччина,4,Continental
+5,Debica Presto HP2 195/65 R15 91H,201407,2256.00,https://infoshina.com.ua/media/images/thumbs/Debica_Presto_HP_2_0_degree.750x750.jpg,літні,,2025,True,2,3,2,Польща,3,Debica
+6,Goodyear Eagle Sport 2 195/65 R15 91V,225701,2699.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2024,True,1,1,1,Туреччина,1,Goodyear
+7,Debica Presto HP2 205/60 R16 92H,201410,3283.00,https://infoshina.com.ua/media/images/thumbs/Debica_Presto_HP_2_0_degree.750x750.jpg,літні,,2024,True,2,3,2,Польща,3,Debica
+8,Debica Presto UHP 2 215/55 R17 98W XL FP,142386,3849.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,3,3,3,Словенія,3,Debica
+9,Debica Presto UHP 2 225/50 R17 98Y XL FP,144644,3869.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2024,True,4,3,4,Німеччина,3,Debica
+10,Debica Presto HP2 205/55 R16 91H,201525,2498.00,https://infoshina.com.ua/media/images/thumbs/Debica_Presto_HP_2_0_degree.750x750.jpg,літні,,2025,True,3,3,3,Словенія,3,Debica
+11,Goodyear Eagle Sport 2 215/65 R16 98H,225691,3922.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2025,True,1,1,1,Туреччина,1,Goodyear
+12,Debica Presto UHP 2 225/45 R17 91Y FP,141163,2849.00,,,,,True,2,3,2,Польща,3,Debica
+13,Arivo Premio Arzero 195/65 R15 95T XL,231235,1799.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+14,Kapsen HD918 205/55 R16 91V,242893,1751.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+15,Goodyear EfficientGrip Performance 2 205/55 R16 91H,200977,3799.00,https://infoshina.com.ua/media/images/thumbs/Goodyear_EfficientGrip_Performance_2_90.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+16,Kapsen HD918 195/65 R15 95H XL,246273,1699.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+17,Funtoma Roadfun Sport 205/55 R16 91V,231387,2288.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+18,Kapsen K737 195/65 R15 91V,186210,1749.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+19,Debica Presto HP2 215/60 R17 96H,201412,3879.00,,,,,True,2,3,2,Польща,3,Debica
+20,Kapsen K737 205/55 R16 91V FR,186211,1888.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+21,Dunlop Sport BluResponse 205/55 R16 91V,60457,2711.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+22,Goodyear EfficientGrip Performance 2 195/65 R15 91H,201930,3379.00,https://infoshina.com.ua/media/images/thumbs/Goodyear_EfficientGrip_Performance_2_90.750x750.jpg,літні,,2024,True,2,1,2,Польща,1,Goodyear
+23,Goodyear Eagle Sport 2 185/65 R15 88H,225699,3099.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2025,True,2,1,2,Польща,1,Goodyear
+24,Dunlop Sport BluResponse 195/65 R15 91H,60710,2314.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,2,8,2,Польща,8,Dunlop
+25,Cordiant Snow Cross 175/65 R14 82T (під шип),211725,0.00,https://infoshina.com.ua/media/images/thumbs/Cordiant_Snow_Cross.750x750.jpg,зимові,,,False,,9,0,,9,Cordiant
+26,Nexen NBlue S 215/65 R16 98H,264867,0.00,https://infoshina.com.ua/media/images/thumbs/r410XzHiPMNF.750x750.jpg,літні,,,False,6,10,6,Корея,10,Nexen (Roadstone)
+27,Michelin Primacy 4 195/65 R15 91H,194271,3398.00,https://infoshina.com.ua/media/images/thumbs/Gx3kZHLzQIDD.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+28,Debica Presto UHP 2 225/55 R17 101Y XL FP,141167,3889.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,2,3,2,Польща,3,Debica
+29,Funtoma Roadfun 185/65 R15 88H,229946,1857.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+30,Funtoma Roadfun 215/60 R16 99V,229957,2571.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+31,Funtoma Roadfun 175/70 R13 82T,229949,1740.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+32,Funtoma Roadfun Sport 215/55 R17 98W,229961,2601.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+33,Michelin Agilis 3 195/70 R15C 104/102R,204583,4599.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+34,Debica Presto UHP 2 225/45 R17 94Y XL FP,140736,2849.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,2,3,2,Польща,3,Debica
+35,Kapsen HD918 205/60 R16 92V,243523,1959.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+36,Funtoma SuvFun H/T 215/65 R16 102V,229969,3276.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+37,Debica Presto UHP 2 235/45 R18 98Y XL FP,146080,4339.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,4,3,4,Німеччина,3,Debica
+38,Funtoma Roadfun 185/65 R14 86H,230115,1955.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+39,Debica Presto UHP 2 235/45 R17 97Y XL FP,140738,3498.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,2,3,2,Польща,3,Debica
+40,Continental PremiumContact 7 205/55 R16 91H,228956,3859.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,8,4,8,Франція,4,Continental
+41,Debica Presto UHP 2 225/45 R18 95Y XL FP,142165,4229.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2024,True,3,3,3,Словенія,3,Debica
+42,Kapsen K737 205/60 R16 92V,191676,2099.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+43,Arivo Premio Arzero 185/65 R15 88H,230238,1698.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+44,Goodyear Eagle Sport 2 185/60 R14 82H,225695,2589.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2025,True,1,1,1,Туреччина,1,Goodyear
+45,Dunlop Sport BluResponse 205/60 R16 92H,60460,3874.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,4,8,4,Німеччина,8,Dunlop
+46,Kapsen K3000 215/55 R17 98W XL,191678,2459.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+47,Michelin Pilot Sport 4 SUV 225/65 R17 106V XL,190185,5989.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+48,Arivo Premio Arzero 205/60 R16 96V XL,231190,2079.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+49,Goodyear Eagle Sport 2 195/60 R15 88V,225692,3244.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2024,True,1,1,1,Туреччина,1,Goodyear
+50,Michelin Pilot Sport 4 SUV 255/55 R18 109Y XL,182862,6589.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+51,Arivo Premio Arzero 185/65 R14 86H,228879,1451.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+52,Kapsen HD918 185/65 R14 86H,233064,1451.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+53,Kapsen K737 215/65 R16 98H,201613,2229.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+54,Arivo Premio Arzero 205/55 R16 91V,231271,1889.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+55,Kapsen HD918 175/70 R13 82T,232101,1309.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+56,Kapsen HD918 215/60 R16 95V,243061,2298.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+57,Arivo Premio Arzero 175/65 R14 86T XL,230231,1403.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+58,Kapsen S801 ComfortMax 225/65 R17 102H,161826,2989.00,https://infoshina.com.ua/media/images/thumbs/PhlUWd1fwhxI.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+59,Kapsen K737 175/70 R13 82T,186208,1349.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+60,Kapsen S2000 215/55 R17 98W XL,147381,2359.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+61,Funtoma SuvFun H/T 225/65 R17 102V,230206,3325.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+62,Michelin Pilot Sport 4 SUV 225/60 R18 100V,188793,7229.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+63,Funtoma Roadfun Sport 215/55 R16 97W,229960,2718.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+64,Kapsen HD918 175/65 R14 82H,233060,1306.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+65,Kapsen HD918 215/65 R16 98V,242894,2120.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+66,Funtoma Roadfun 185/60 R15 84H,229951,1857.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+67,Kapsen K737 185/65 R15 88H,187864,1598.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+68,Goodyear Eagle Sport 2 185/60 R15 88H XL,225698,3225.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2025,True,1,1,1,Туреччина,1,Goodyear
+69,Funtoma Roadfun 175/70 R14 84T,229950,1955.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+70,Arivo Premio Arzero 175/70 R13 82T,230233,1319.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+71,Arivo Premio Arzero 185/60 R14 82H,230236,1384.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+72,Michelin Pilot Sport 5 225/45 R17 94Y XL,225378,4339.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+73,Kapsen K737 185/65 R14 86H,186209,1539.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+74,Arivo Premio Arzero 215/60 R16 99H XL,232069,2299.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+75,Funtoma Roadfun Sport 205/55 R17 95W,229959,2630.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+76,Kapsen S801 ComfortMax 185/65 R15 92H,161481,1639.00,https://infoshina.com.ua/media/images/thumbs/PhlUWd1fwhxI.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+77,Funtoma Roadfun Sport 225/55 R17 101W,245967,2933.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+78,Michelin Agilis 3 235/65 R16C 115/113R,204754,6919.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+79,Arivo Premio Arzero 205/55 R16 94W XL,231219,1879.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+80,Debica Presto HP2 215/65 R16 98V,219048,3879.00,https://infoshina.com.ua/media/images/thumbs/Debica_Presto_HP_2_0_degree.750x750.jpg,літні,,2025,True,3,3,3,Словенія,3,Debica
+81,Arivo Premio Arzero 195/60 R15 88V,230242,1704.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+82,Arivo Transito ARZ 6-C 235/65 R16C 115/113R,230309,3099.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+83,Arivo Ultra ARZ5 215/55 R17 94W FR,230253,2489.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+84,Arivo Transito ARZ 6-C 215/65 R16C 109/107T,231236,2889.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+85,Arivo Premio Arzero 215/65 R16 98H,231194,2275.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+86,Kapsen RS01 215/65 R16C 109/107T,206173,2779.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+87,Arivo Traverso ARV H/T 225/65 R17 102H,229762,2999.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+88,Kapsen K3000 215/50 R17 95W XL,191677,2549.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+89,Continental UltraContact 225/65 R17 102H FR,226690,5959.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,10,4,10,Словаччина,4,Continental
+90,Kapsen RS01 195/70 R15C 104/102T,217118,2409.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+91,Debica Presto UHP 2 225/40 R18 92Y XL FP,140735,3449.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,4,3,4,Німеччина,3,Debica
+92,Goodyear EfficientGrip Performance 2 215/55 R17 94W,200980,5999.00,https://infoshina.com.ua/media/images/thumbs/Goodyear_EfficientGrip_Performance_2_90.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+93,Kapsen K3000 205/55 R16 94W XL,188998,1929.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+94,Goodyear EfficientGrip 2 SUV 225/65 R17 102H,219025,5774.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,8,1,8,Франція,1,Goodyear
+95,Kapsen RS01 225/70 R15C 112/110T,216286,2829.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+96,Goodyear Eagle F1 Asymmetric 6 225/45 R17 94Y FP,226823,4239.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+97,Arivo Premio Arzero 205/65 R15 94V,231251,1939.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+98,Arivo Transito ARZ 6-C 225/70 R15C 112/110R,230308,2889.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+99,Goodyear EfficientGrip 2 SUV 225/55 R18 98V,215664,5798.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+100,Funtoma SuvFun H/T 235/60 R18 107W,229975,3697.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+101,Funtoma SuvFun H/T 225/60 R17 99H,229971,3501.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+102,Goodyear EfficientGrip 2 SUV 225/60 R17 99H,220006,6779.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+103,Kapsen RS01 225/65 R16C 112/110T,204773,2760.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+104,Continental UltraContact 185/65 R15 88T,227440,3439.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,11,4,11,Румунія,4,Continental
+105,Goodyear EfficientGrip 2 SUV 235/55 R19 105V XL,216841,6529.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+106,Kapsen S801 ComfortMax 225/60 R17 99H,148333,2698.00,https://infoshina.com.ua/media/images/thumbs/PhlUWd1fwhxI.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+107,Arivo Transito ARZ 6-C 225/65 R16C 112/110R,230307,2899.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+108,Funtoma Roadfun Sport 225/50 R17 98W,246591,2933.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+109,Kapsen K3000 225/45 R17 94W XL,201740,2139.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+110,Kapsen S2000 205/55 R16 94W,147380,1909.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+111,Kapsen K3000 225/55 R17 101W XL,187870,2559.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+112,Debica Presto UHP 2 245/45 R17 99Y XL FP,158950,3767.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2024,True,4,3,4,Німеччина,3,Debica
+113,Michelin Pilot Sport 5 245/40 R18 97Y XL,225381,6339.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+114,Kapsen HD918 205/65 R15 94V,232109,1741.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+115,Arivo Ultra ARZ5 225/50 R17 98W XL FR,230255,2589.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+116,Goodyear EfficientGrip 2 SUV 225/55 R19 99V,216940,6489.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+117,Kapsen K3000 215/55 R16 97W XL,187869,2239.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+118,Funtoma SuvFun H/T 215/60 R17 100V,244551,2718.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+119,Arivo Transito ARZ 6-C 195/70 R15C 104/102R,231273,2369.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+120,Kapsen HD918 185/60 R15 84H,233063,1481.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+121,Funtoma Roadfun 195/55 R16 87V,229952,2052.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+122,Funtoma Roadfun 205/60 R16 96V,229955,2640.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+123,Arivo Ultra ARZ5 225/55 R17 101W XL FR,231249,2699.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+124,Funtoma VanFun 235/65 R16C 121/119R,229980,3648.00,https://infoshina.com.ua/media/images/thumbs/WG7jTopFYrb1.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+125,Arivo Ultra ARZ5 225/45 R17 94W XL FR,228883,2289.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+126,Arivo Transito ARZ 6-C 185/75 R16C 104/102R,230298,2129.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+127,Goodyear Eagle Sport 2 UHP 225/45 R17 94Y XL FP,246571,3189.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2024,True,8,1,8,Франція,1,Goodyear
+128,Michelin Pilot Sport 5 245/45 R18 100Y XL,226383,7179.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+129,Kapsen K3000 225/50 R17 98W XL,242902,2539.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+130,Goodyear Eagle Sport 2 205/60 R16 92V,247332,4239.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+131,Funtoma Roadfun Sport 215/50 R17 95W XL,231965,2737.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+132,Michelin Pilot Sport 5 245/40 R19 98Y XL,225382,7750.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+133,Funtoma Roadfun 185/70 R14 88H,230174,2052.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+134,Goodyear Eagle Sport 2 UHP 225/55 R17 101Y XL FP,246634,4889.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,2,1,2,Польща,1,Goodyear
+135,Kapsen K737 185/60 R14 82H,188436,1439.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+136,Kapsen K3000 225/55 R18 102W XL,232115,2635.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+137,Funtoma SuvFun H/T 225/55 R18 98V,229970,3520.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+138,Kapsen HD918 195/60 R15 88V,243472,1633.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+139,Funtoma Roadfun 185/60 R14 82H,246590,1847.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+140,Kapsen S2000 225/55 R17 101W,147383,2529.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+141,Kapsen HP7 235/60 R18 107H XL,243475,3121.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+142,Kapsen K737 175/65 R14 82H,186207,1369.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+143,Goodyear Eagle Sport 2 UHP 225/50 R17 98Y XL FP,246596,4559.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+144,Arivo Premio Arzero 185/60 R15 88H XL,230237,1587.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+145,Michelin Primacy 4+ 225/65 R17 102H,229253,6099.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+146,Michelin Pilot Sport 5 225/50 R17 98Y XL,225327,5789.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+147,Dunlop Sport BluResponse 185/60 R15 84H,93919,2779.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,4,8,4,Німеччина,8,Dunlop
+148,Goodyear Eagle F1 Asymmetric 6 225/45 R17 91Y FP,225816,3838.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+149,Michelin Agilis 3 205/65 R16C 107/105T,204860,6229.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+150,Goodyear EfficientGrip 2 SUV 265/65 R17 112H,219825,6939.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+151,Arivo Premio ARZ 1 205/70 R15 96H,230247,1975.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+152,Arivo Traverso ARV H/T 215/70 R16 100H,229759,2889.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+153,Kapsen RS01 235/65 R16C 115/113T,206174,3009.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+154,Michelin Pilot Sport 4 SUV 225/55 R19 99V,182845,6929.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+155,Funtoma SuvFun H/T 235/65 R17 108V,229976,3511.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+156,Goodyear Eagle F1 Asymmetric 6 245/40 R18 97Y XL FP,226821,5769.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+157,Kapsen K3000 235/55 R17 103W XL,232262,2595.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+158,Arivo Terrano ARV H/T 215/60 R17 100H XL FR,230311,2589.00,https://infoshina.com.ua/media/images/thumbs/k14DMEWsg4VI.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+159,Arivo Premio Arzero 185/70 R14 88T,230239,1639.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+160,Kapsen K737 205/65 R15 94V,187867,1799.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+161,Michelin Primacy 4+ 235/55 R17 103Y XL,226031,6239.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2024,True,7,2,7,Італія,2,Michelin
+162,Kapsen K737 215/60 R17 96H,191679,2589.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+163,Michelin Pilot Sport 4 SUV 285/50 R20 116W XL,202310,13779.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+164,Continental UltraContact 225/60 R18 100H,227398,6489.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,10,4,10,Словаччина,4,Continental
+165,Arivo Traverso ARV H/T 235/60 R18 107H XL,229766,3189.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+166,Funtoma SuvFun H/T 225/60 R18 100V,229972,3511.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+167,Dunlop Sport BluResponse 215/55 R16 97H,101636,4499.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+168,Continental ContiVanContact 100 235/65 R16C 115/113R,91293,6789.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+169,Michelin Pilot Sport 4 SUV 265/60 R18 110V,202309,7359.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+170,Michelin Pilot Sport 4 SUV 235/55 R19 105Y XL,182851,7449.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+171,Arivo Terrano ARV H/T 215/65 R16 102H XL FR,230312,2589.00,https://infoshina.com.ua/media/images/thumbs/k14DMEWsg4VI.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+172,Goodyear Eagle Sport 2 UHP 215/55 R17 98Y XL FP,247015,4889.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+173,Continental PremiumContact 6 235/50 R18 97V FR,140920,6669.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2023,True,4,4,4,Німеччина,4,Continental
+174,Michelin Primacy 4 235/60 R18 103V MO,225501,6289.00,https://infoshina.com.ua/media/images/thumbs/Gx3kZHLzQIDD.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+175,Arivo Transito ARZ 6-C 185/80 R14C 102/100R,230375,2239.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+176,Kapsen K737 175/70 R14 84H,187862,1399.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+177,Arivo Transito ARZ 6-C 205/65 R16C 107/105T,230301,2689.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+178,Goodyear EfficientGrip 2 SUV 255/55 R18 109V XL,224766,6279.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+179,Michelin Pilot Sport 4 SUV 255/60 R18 112W XL,184375,7349.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+180,Goodyear EfficientGrip 2 SUV 235/60 R18 103V,218849,5879.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+181,Kapsen K737 195/60 R15 88V,187866,1685.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+182,Kapsen K3000 235/45 R18 98W XL FR,187871,2779.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+183,Funtoma SuvFun H/T 265/65 R17 112H,229979,3804.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+184,Kapsen K737 205/65 R16 95H,230904,2389.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+185,Dunlop GrandTrek ST30 225/60 R18 100H,95932,4789.00,https://infoshina.com.ua/media/images/thumbs/XuUEkySqJ67Z.750x750.jpg,літні,,2024,True,12,8,12,Таїланд,8,Dunlop
+186,Michelin Agilis 3 215/65 R16C 109/107T,204752,6449.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+187,Arivo Ultra ARZ5 235/45 R18 98W XL FR,206252,2679.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+188,Funtoma SuvFun H/T 235/60 R16 100H,229974,3267.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+189,Goodyear Eagle Sport 2 UHP 245/40 R18 97Y XL FP,246570,4589.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,2,1,2,Польща,1,Goodyear
+190,Goodyear Eagle F1 Asymmetric 6 225/40 R18 92Y XL FP,230139,4139.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+191,Michelin Pilot Sport 4 SUV 275/45 R20 110Y XL,182874,10899.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+192,Michelin Pilot Sport 4 SUV 285/45 R21 113Y XL,182882,17389.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+193,Continental UltraContact 205/60 R16 92H,227459,5099.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+194,Arivo Premio Arzero 175/70 R14 88T XL,230234,1539.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+195,Kapsen S2000 225/50 R17 98W,148312,2669.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+196,Funtoma VanFun 225/70 R15C 116/114R,245094,3394.00,https://infoshina.com.ua/media/images/thumbs/WG7jTopFYrb1.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+197,Kapsen K737 215/60 R16 99H XL,186212,2449.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+198,Kapsen K3000 205/55 R17 95W XL,233069,2359.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+199,Michelin Pilot Sport 4 SUV 285/45 R20 112Y XL,202428,12299.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+200,Dunlop Sport BluResponse 185/60 R14 82H,54210,2217.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,2,8,2,Польща,8,Dunlop
+201,Arivo Premio ARZ 1 205/65 R16 95H,230246,2129.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+202,Kapsen RS01 195/75 R16C 107/105T,202636,2498.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+203,Kapsen RS26 255/50 R19 107W,148321,3609.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+204,Kapsen K3000 245/40 R18 97W XL,232263,2616.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+205,Continental UltraContact 235/60 R18 103V FR,244631,5999.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+206,Kapsen RS26 235/55 R18 104W XL,216946,3089.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+207,Continental PremiumContact 6 255/55 R19 111H XL AO FR,186704,6999.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+208,Arivo Ultra ARZ5 205/55 R16 94W XL,238223,2099.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+209,Arivo Traverso ARV H/T 225/60 R17 99H,229761,2899.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+210,Michelin Pilot Sport 5 275/45 R20 110Y XL,226363,9998.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,13,2,13,Угорщина,2,Michelin
+211,Dunlop Sport MAXX RT 2 225/50 R17 94Y,124225,4349.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,4,8,4,Німеччина,8,Dunlop
+212,Goodyear EfficientGrip 2 SUV 225/65 R17 106V XL,216858,5998.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,8,1,8,Франція,1,Goodyear
+213,Continental UltraContact 225/60 R17 99H,227846,6889.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+214,Arivo Transito ARZ 6-C 195/75 R16C 107/105R,231272,2459.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2023,True,5,5,5,Китай,5,Arivo
+215,Dunlop Sport BluResponse 195/60 R15 88H,61292,2759.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,2,8,2,Польща,8,Dunlop
+216,Arivo Ultra ARZ5 225/55 R18 102W XL FR,230257,2789.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+217,Michelin Pilot Sport 5 255/35 R19 96Y XL,225513,7707.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+218,Kapsen K737 185/60 R15 84H,187863,1529.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+219,Michelin Pilot Sport 4 SUV 255/55 R19 111Y XL,182863,7989.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+220,Kapsen RS01 195/80 R14C 106/104T,217119,2239.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+221,Kapsen H202 ComfortMax A/S 225/60 R18 100H,148708,2759.00,https://infoshina.com.ua/media/images/thumbs/eT7Mk2BW0prW.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+222,Goodyear Eagle Sport 2 UHP 235/45 R18 98Y XL FP,246595,5149.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+223,Kapsen HD918 175/70 R14 84H,233061,1345.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+224,Kapsen S2000 225/45 R17 94W,147382,2140.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+225,Kapsen HP7 215/70 R16 100H,243588,2604.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+226,Goodyear EfficientGrip 2 SUV 235/65 R17 108H XL,216609,5889.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+227,Kapsen HD918 155/70 R13 75T,232100,1099.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+228,Kapsen RS07 235/65 R16C 115/113T,246975,2879.00,https://infoshina.com.ua/media/images/thumbs/qwmKlQALCfKn.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+229,Michelin Pilot Sport 5 255/40 R19 100Y XL,225497,8899.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+230,Funtoma Roadfun Sport 205/50 R17 93W,231720,2630.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+231,Funtoma SuvFun H/T 265/60 R18 114V,229978,4489.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2023,True,1,7,1,Туреччина,7,Funtoma
+232,Arivo Premio Arzero 195/55 R15 85V,231701,1635.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+233,Funtoma Roadfun 205/65 R15 94V,229956,2718.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+234,Kapsen HP7 265/65 R17 112H,242898,3749.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+235,Michelin Primacy 4 195/60 R15 88H,237309,3879.00,https://infoshina.com.ua/media/images/thumbs/Gx3kZHLzQIDD.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+236,Goodyear EfficientGrip 2 SUV 235/55 R17 99H,216455,5999.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+237,Goodyear EfficientGrip 2 SUV 225/60 R18 100H,219968,6559.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+238,Kapsen H202 ComfortMax A/S 235/65 R17 104H,201909,3189.00,https://infoshina.com.ua/media/images/thumbs/eT7Mk2BW0prW.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+239,Continental ContiVanContact 100 225/70 R15C 112/110R,60708,5789.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+240,Michelin Pilot Sport 4 SUV 275/45 R21 110Y XL,182875,10729.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,5,2,5,Китай,2,Michelin
+241,Arivo Premio Arzero 195/55 R16 91V XL,233191,1899.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+242,Kapsen S2000 235/55 R17 103W,160871,2569.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+243,Continental UltraContact 235/55 R17 99V,227399,6109.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,8,4,8,Франція,4,Continental
+244,Goodyear EfficientGrip 2 SUV 285/60 R18 116V,224741,7109.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+245,Arivo Ultra ARZ5 235/55 R17 103W XL,231689,2799.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+246,Funtoma SuvFun H/T 245/70 R16 111H,229977,3481.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+247,Continental ContiVanContact 100 195/70 R15C 104/102R,61480,4459.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2025,True,11,4,11,Румунія,4,Continental
+248,Barum Bravuris 6 185/65 R15 88T,259240,2559.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,4,11,4,Німеччина,11,Barum
+249,Kapsen K3000 235/50 R18 101W XL FR,231555,2797.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+250,Michelin Pilot Sport 5 235/45 R18 98Y XL,226382,7789.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+251,Arivo Premio Arzero 155/70 R13 75T,230229,1248.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+252,Arivo Premio Arzero 165/70 R14 85T XL,230230,1403.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+253,Arivo Ultra ARZ5 245/45 R18 100W XL FR,231819,2859.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+254,Arivo Transito ARZ 6-C 215/75 R16C 113/111R,230306,3159.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+255,Michelin Pilot Sport 4 SUV 285/40 R21 109Y XL,182879,13467.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+256,Arivo Ultra ARZ5 205/55 R17 95W XL,232070,2339.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+257,Kapsen S2000 245/45 R18 100W,147387,2689.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+258,Arivo Ultra ARZ5 205/50 R17 93W XL,231189,2189.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+259,Kapsen S2000 215/50 R17 95W,148310,2389.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+260,Kapsen HP7 225/60 R18 100H,243590,2865.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+261,Michelin Pilot Sport 4 SUV 295/40 R21 111Y XL,182886,12459.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+262,Kapsen S801 ComfortMax 195/65 R15 91V,161485,1839.00,https://infoshina.com.ua/media/images/thumbs/PhlUWd1fwhxI.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+263,Kapsen K737 235/60 R16 100H,233076,2411.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+264,Continental ContiVanContact 100 195/75 R16C 107/105R,62495,4899.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2024,True,11,4,11,Румунія,4,Continental
+265,Funtoma VanFun 195/70 R15C 104/102R,245093,2826.00,https://infoshina.com.ua/media/images/thumbs/WG7jTopFYrb1.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+266,Goodyear Eagle Sport 2 185/70 R14 88H,225697,3477.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,,True,,1,0,,1,Goodyear
+267,Goodyear EfficientGrip 2 SUV 235/65 R17 108V XL,226346,5779.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+268,Continental PremiumContact 7 245/45 R19 98W,229114,8506.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+269,Continental PremiumContact 6 255/50 R20 109H XL AO,159002,9349.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,4,4,4,Німеччина,4,Continental
+270,Arivo Traverso ARV H/T 225/60 R18 104H XL,229765,2959.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+271,Michelin Pilot Sport 4 SUV 255/55 R20 110Y XL,182864,10559.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+272,Kapsen K3000 205/50 R17 93W XL,201739,2189.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+273,Kapsen HP7 245/70 R16 111H XL,242896,3234.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+274,Michelin Pilot Sport 5 235/40 R19 96Y XL,225496,8659.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+275,Kapsen HD918 195/55 R15 85V,244235,1579.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+276,Arivo Ultra ARZ5 235/55 R18 104V XL FR,231230,3089.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+277,Goodyear Eagle F1 Asymmetric 6 245/40 R19 98Y XL FP,226825,7789.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+278,Michelin Pilot Sport 4 SUV 255/50 R20 109Y XL FR,189085,10889.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+279,Michelin Primacy 4 185/60 R15 84H,194980,3999.00,https://infoshina.com.ua/media/images/thumbs/Gx3kZHLzQIDD.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+280,Kapsen RS01 205/70 R15C 106/104T,206172,2449.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+281,Kapsen K3000 235/40 R19 96W XL,242903,2735.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+282,Arivo Ultra ARZ5 235/55 R19 105V XL FR,230265,3229.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+283,Continental SportContact 7 245/40 R19 98Y XL,225470,7698.00,,літні,,2025,True,14,4,14,Чехія,4,Continental
+284,Arivo Transito ARZ 6-C 195/60 R16C 99/97H,228886,2259.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+285,Arivo Traverso ARV H/T 215/65 R17 99V,230313,2749.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+286,Goodyear EfficientGrip 245/50 R18 100W MO Run Flat,104951,7998.00,https://infoshina.com.ua/media/images/thumbs/Goodyear-EfficientGrip.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+287,Kapsen RS01 215/70 R15C 109/107T,217120,2639.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+288,Arivo Traverso ARV H/T 245/70 R16 111H XL,230328,3449.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+289,Funtoma SuvFun H/T 255/55 R18 109Y FR,245783,3617.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+290,Kapsen S2000 225/45 R18 95W FR,160868,2385.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+291,Kapsen S2000 235/45 R18 98W,148313,2659.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+292,Arivo Ultra ARZ5 225/55 R19 99V FR,230258,2999.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+293,Kapsen RS26 235/65 R17 108V,148319,3129.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+294,Kapsen RS26 255/55 R19 111W,147408,3979.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+295,Goodyear Eagle Sport 2 UHP 225/45 R18 95Y XL FP,249499,4736.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+296,Goodyear EfficientGrip 2 SUV 245/60 R18 105H,227464,7004.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+297,Michelin Pilot Sport 4 SUV 235/60 R18 107V XL VOL,195759,7459.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+298,Goodyear Eagle F1 Asymmetric 6 255/35 R19 96Y XL FP,230038,7559.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,8,1,8,Франція,1,Goodyear
+299,Goodyear Eagle F1 Asymmetric 6 255/40 R19 100Y XL FP,230033,7639.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+300,Kapsen S2000 235/50 R18 101W XL FR,147386,2645.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+301,Arivo Transito ARZ 6-C 205/75 R16C 113/111R,230302,2989.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+302,Continental PremiumContact 6 255/60 R18 112V XL FR,158906,6449.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+303,Continental PremiumContact 7 235/45 R18 98Y XL FR,232282,6998.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,4,4,4,Німеччина,4,Continental
+304,Michelin Pilot Sport 5 275/35 R19 100Y XL,230128,11889.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+305,Arivo Ultra ARZ5 245/55 R19 103V FR,230270,3779.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+306,Arivo Traverso ARV H/T 265/65 R17 112H,230332,3799.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+307,Michelin Primacy 5 205/55 R16 91H,255727,3899.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+308,Continental UltraContact 215/55 R17 94V,227460,5979.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+309,Kapsen S2000 215/55 R16 97W,148311,2088.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+310,Barum Bravuris 6 195/65 R15 91V,259634,2549.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,10,11,10,Словаччина,11,Barum
+311,Goodyear EfficientGrip Performance 2 225/45 R17 91W FP,201933,4099.00,https://infoshina.com.ua/media/images/thumbs/Goodyear_EfficientGrip_Performance_2_90.750x750.jpg,літні,,2025,True,8,1,8,Франція,1,Goodyear
+312,Continental UltraContact 215/65 R16 98H,227877,4889.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,8,4,8,Франція,4,Continental
+313,Arivo Transito ARZ 6-X 205/80 R14C 109/107R,230374,2559.00,https://infoshina.com.ua/media/images/thumbs/ptUdsyylSjWB.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+314,Funtoma VanFun 215/75 R16C 116/114R,245969,3609.00,https://infoshina.com.ua/media/images/thumbs/WG7jTopFYrb1.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+315,Goodyear EfficientGrip 2 SUV 255/55 R19 111V XL,230531,6646.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+316,Goodyear Eagle F1 Asymmetric 6 225/45 R19 96W XL FP,229992,7979.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+317,Michelin Pilot Sport 4 SUV 275/40 R20 106Y XL,182871,9559.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+318,Arivo Traverso ARV H/T 235/60 R16 100H,230321,2789.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+319,Kapsen K3000 235/55 R19 105W XL FR,216811,3489.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+320,Continental PremiumContact 7 225/50 R17 98Y XL FR,228960,5739.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,4,4,4,Німеччина,4,Continental
+321,Goodyear Eagle F1 Asymmetric 6 235/55 R19 105T XL,246108,6559.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+322,Michelin Pilot Sport 4 SUV 235/60 R18 103V FR,186642,7589.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+323,Kapsen HD918 195/50 R15 82V,233066,1439.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+324,Kapsen S801 ComfortMax 175/70 R14 84H,202476,1489.00,https://infoshina.com.ua/media/images/thumbs/PhlUWd1fwhxI.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+325,Arivo Transito ARZ 6-C 195/80 R14C 106/104R,231691,2200.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+326,Funtoma Roadfun Sport 235/45 R18 98W,256185,3315.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+327,Continental ContiVanContact 100 225/65 R16C 112/110R,82827,6559.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+328,Kapsen HD918 195/70 R14 91H,233068,1548.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+329,Kapsen H201 205/70 R15 96T,186214,2129.00,https://infoshina.com.ua/media/images/thumbs/sBpu3Q8PXOtP.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+330,Kapsen K3000 225/50 R18 99W XL,220436,2699.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+331,Kapsen RS26 235/55 R19 105W,218766,3459.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+332,Debica Presto UHP 2 245/40 R17 95Y XL FP,142081,3779.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2024,True,4,3,4,Німеччина,3,Debica
+333,Michelin Primacy 5 205/60 R16 92H,255730,5459.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+334,Michelin Primacy 4+ 235/60 R17 102V,229255,6559.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+335,Funtoma Roadfun 155/70 R13 75T,229947,1437.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+336,Arivo Ultra ARZ5 235/45 R17 97W XL FR,230261,2559.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+337,Funtoma SuvFun H/T 235/50 R18 101Y,245779,3481.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+338,Continental ContiVanContact 100 205/75 R16C 110/108R,96223,5779.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2024,True,14,4,14,Чехія,4,Continental
+339,Michelin Pilot Sport 5 235/40 R18 95Y XL,225647,6449.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+340,Goodyear Eagle Sport 2 UHP 245/45 R19 102Y XL FP,247013,6999.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+341,Kapsen K737 205/60 R15 91V,231551,1760.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+342,Funtoma Roadfun 175/65 R14 82H,231326,1847.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+343,Dunlop Sport BluResponse 195/55 R15 85H,93929,3341.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2024,True,8,8,8,Франція,8,Dunlop
+344,Goodyear Eagle F1 Asymmetric 6 245/40 R18 93Y FP,226824,5889.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+345,Dunlop Sport MAXX RT 2 245/45 R19 102Y XL,142085,7559.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,15,8,15,Люксембург,8,Dunlop
+346,Michelin Pilot Sport 5 225/40 R19 93Y XL,227884,8489.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+347,Goodyear Eagle F1 Asymmetric 6 245/45 R19 102Y XL FP,230381,8789.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+348,Michelin Pilot Sport 4 SUV 245/50 R20 102V,182856,10999.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+349,Continental PremiumContact 6 275/50 R20 113Y XL FR AO,181167,11449.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2023,True,11,4,11,Румунія,4,Continental
+350,Dunlop Sport BluResponse 185/65 R14 86H,91682,2659.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,2,8,2,Польща,8,Dunlop
+351,Kapsen K3000 245/50 R18 104W XL FR,232264,3279.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+352,Goodyear Eagle F1 Asymmetric 6 235/45 R17 94Y FP,226818,4789.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+353,Goodyear EfficientGrip 2 SUV 265/50 R20 111V XL FP,227985,11289.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+354,Kapsen HD918 165/70 R14 81T,232121,1239.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+355,Arivo Premio Arzero 155/65 R14 75T,233195,1248.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+356,Kapsen S2000 205/50 R17 93Y,147379,2139.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+357,Barum Bravuris 6 225/45 R17 94Y XL FR,259247,3099.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,4,11,4,Німеччина,11,Barum
+358,Arivo Ultra ARZ5 255/55 R18 105V FR,231697,3349.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,,True,5,5,5,Китай,5,Arivo
+359,Goodyear Eagle Sport 2 UHP 215/50 R17 95Y XL FP,247894,4349.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+360,Continental PremiumContact 7 245/40 R18 93Y FR,232366,5989.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,4,4,4,Німеччина,4,Continental
+361,Arivo Premio Arzero 225/60 R16 102V XL,230250,2399.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+362,Arivo Ultra ARZ5 215/55 R18 99W XL,230254,2698.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+363,Funtoma VanFun 195/75 R16C 107/105R,245092,3119.00,https://infoshina.com.ua/media/images/thumbs/WG7jTopFYrb1.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+364,Michelin Primacy 4+ 255/60 R18 112V XL,226384,6694.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+365,Arivo Ultra ARZ5 225/45 R18 95W XL FR,231195,2499.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+366,Arivo Transito ARZ 6-C 225/75 R16C 121/120R,231699,3449.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+367,Michelin Primacy 5 225/45 R17 91V,259068,4229.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+368,Michelin Primacy 5 225/55 R18 98V,259075,6269.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+369,Michelin Pilot Sport 4 SUV 255/45 R19 100V,182858,8249.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+370,Michelin Pilot Sport 5 225/45 R19 96Y XL,225495,8389.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+371,Continental PremiumContact 7 275/45 R20 110Y XL FR,244375,9789.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,11,4,11,Румунія,4,Continental
+372,Funtoma Roadfun 185/55 R15 82V,230175,2220.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+373,Kapsen K3000 225/55 R19 99V,243065,3398.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+374,Arivo Traverso ARV H/T 245/60 R18 105H,230325,3589.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+375,Funtoma SuvFun H/T 265/70 R16 112H,230207,3912.00,https://infoshina.com.ua/media/images/thumbs/ARGJVVhXJD8C.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+376,Continental PremiumContact 7 285/45 R20 112Y XL FR,233754,11249.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+377,Arivo Premio Arzero 155/65 R13 73T,230228,1239.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+378,Arivo Premio Arzero 195/50 R15 82V,230240,1626.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+379,Arivo Premio Arzero 205/60 R15 91V,230244,1929.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+380,Arivo Transito ARZ 6-C 205/70 R15C 106/104R,231270,2449.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+381,Funtoma Roadfun Sport 225/55 R16 99W XL,232134,2718.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+382,Goodyear Eagle Sport 2 195/55 R15 85H,225700,3689.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2024,True,1,1,1,Туреччина,1,Goodyear
+383,Goodyear EfficientGrip 2 SUV 215/70 R16 100H,227552,5889.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+384,Michelin Agilis 3 215/75 R16C 116/114R,217392,7249.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+385,Michelin Pilot Sport 4 SUV 285/45 R22 114Y XL FR,209105,15998.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,5,2,5,Китай,2,Michelin
+386,Kapsen HD918 195/60 R16 89H,242892,1789.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+387,Arivo Terrano ARV H/T 235/65 R17 108H XL,238235,3229.00,https://infoshina.com.ua/media/images/thumbs/k14DMEWsg4VI.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+388,Dunlop Sport MAXX RT 2 235/45 R17 94Y,126585,3789.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,2,8,2,Польща,8,Dunlop
+389,Arivo Ultra ARZ5 265/50 R19 110V XL FR,230278,3799.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+390,Goodyear Eagle Sport 2 UHP 235/45 R17 97Y XL FP,249209,3999.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2024,True,2,1,2,Польща,1,Goodyear
+391,Dunlop Sport MAXX RT 2 245/45 R18 100Y XL,124231,5459.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,4,8,4,Німеччина,8,Dunlop
+392,Kapsen RS01 165/80 R13C 94/93T,243465,1779.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+393,Kapsen S2000 225/40 R18 92W,161827,2239.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+394,Arivo Transito ARZ 6-C 205/65 R15C 102/100R,230300,2339.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+395,Arivo Transito ARZ 6-C 215/70 R15C 109/107R,230305,2589.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2025,True,5,5,5,Китай,5,Arivo
+396,Arivo Ultra ARZ4 215/50 R17 95W XL,229748,2699.00,https://infoshina.com.ua/media/images/thumbs/L0iwo64rpLMB.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+397,Arivo Ultra ARZ5 245/40 R18 97W XL,233571,2889.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+398,Arivo Ultra ARZ5 245/45 R19 98W FR,206256,3189.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+399,Arivo Ultra ARZ5 275/45 R21 110W XL FR,230283,3998.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+400,Continental PremiumContact 7 225/40 R18 92Y XL FR,229130,4759.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,16,4,16,Португалія,4,Continental
+401,Goodyear EfficientGrip 2 SUV 215/65 R17 99V,227081,5318.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,8,1,8,Франція,1,Goodyear
+402,Goodyear Eagle F1 Asymmetric 6 235/40 R18 95Y XL FP,229995,5889.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+403,Michelin Primacy 4+ 225/55 R16 95W,229249,6779.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+404,Continental SportContact 7 255/35 R19 96Y XL FR,226641,7199.00,,літні,,2024,True,10,4,10,Словаччина,4,Continental
+405,Continental PremiumContact 6 285/45 R22 114Y XL FR MO,190404,14199.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+406,Funtoma Roadfun 175/65 R15 84H,232112,1955.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2023,True,1,7,1,Туреччина,7,Funtoma
+407,Debica Presto UHP 2 255/35 R18 94Y XL FP,144071,4459.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,4,3,4,Німеччина,3,Debica
+408,Continental UltraContact 225/55 R18 98V FR,233774,5798.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,8,4,8,Франція,4,Continental
+409,Michelin Primacy 5 215/55 R17 94V,255731,6149.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+410,Goodyear EfficientGrip 2 SUV 255/60 R18 112V XL,231507,6229.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+411,Michelin Pilot Sport 4 SUV 255/50 R19 103Y NEO,228385,7889.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+412,Michelin Pilot Sport 5 245/50 R18 104Y XL,233704,7999.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+413,Michelin Pilot Sport 4 SUV 245/50 R19 105W XL *,203001,10099.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+414,Goodyear Eagle F1 Asymmetric 6 255/45 R20 105T XL,244054,10289.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+415,Michelin Pilot Sport 4 SUV 255/45 R20 105Y XL,182859,11229.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+416,Kapsen K737 165/70 R13 79T,201806,1189.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+417,Arivo Premio Arzero 215/65 R15 96H,231193,2239.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+418,Kapsen HP7 235/60 R17 106H XL FR,232254,2885.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+419,Goodyear Eagle F1 Asymmetric 6 225/55 R17 97Y,231205,5889.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+420,Goodyear Eagle F1 Asymmetric 6 235/45 R18 98Y XL FP,227937,6999.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+421,Continental PremiumContact 7 235/55 R19 105Y XL FR,245966,7077.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,8,4,8,Франція,4,Continental
+422,Dunlop Sport MAXX RT 2 265/45 R21 104W,127542,8719.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+423,Michelin Pilot Sport 4 SUV 265/50 R20 111Y XL,229256,11229.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+424,Michelin Pilot Sport 4 SUV 275/40 R22 108Y XL FR,184381,11999.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,13,2,13,Угорщина,2,Michelin
+425,Kapsen K737 195/55 R15 85V,201611,1619.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+426,Kapsen K737 225/60 R16 98H,232270,2669.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+427,Arivo Ultra ARZ5 235/50 R18 97V FR,230264,2899.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2025,True,5,5,5,Китай,5,Arivo
+428,Kapsen RS26 245/55 R19 103W,210552,3419.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+429,Dunlop Sport BluResponse 215/50 R17 95W,101634,4155.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2024,True,3,8,3,Словенія,8,Dunlop
+430,Dunlop Sport MAXX RT 2 255/40 R19 100Y,128861,6355.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+431,Michelin Primacy 4+ 245/70 R16 111H XL,230131,6489.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+432,Michelin Pilot Sport 5 225/50 R18 99Y XL FRV,244393,7459.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+433,Michelin Agilis 3 225/75 R16C 121/120R,215881,7999.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+434,Goodyear EfficientGrip 245/45 R19 102Y XL MOE FP Run Flat,88040,9689.00,https://infoshina.com.ua/media/images/thumbs/Goodyear-EfficientGrip.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+435,Goodyear EfficientGrip 2 SUV 275/55 R20 117V XL,226834,11519.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+436,Michelin Pilot Sport 4 SUV 265/45 R20 108Y XL,182867,11999.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+437,Kapsen HD918 165/70 R13 79T,233412,1189.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+438,Kapsen K737 165/70 R14 81T,201807,1219.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+439,Arivo Premio Arzero 175/65 R15 84H,230232,1639.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+440,Barum Bravuris 6 225/55 R17 101Y XL,257644,4099.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,11,11,11,Румунія,11,Barum
+441,Kapsen RS26 285/50 R20 116W XL,233199,4148.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+442,Kapsen K3000 275/40 R21 107Y XL,216952,4459.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+443,Michelin Primacy 5 225/55 R17 97W,259074,6089.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+444,Kapsen S2000 225/55 R16 99W XL,161521,2289.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+445,Kapsen H201 235/75 R15 105T,148700,2599.00,https://infoshina.com.ua/media/images/thumbs/sBpu3Q8PXOtP.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+446,Funtoma VanFun 205/70 R15C 106/104R,245970,2924.00,https://infoshina.com.ua/media/images/thumbs/WG7jTopFYrb1.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+447,Kapsen HP7 245/60 R18 105H,233190,3349.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+448,Dunlop Sport BluResponse 215/55 R16 93V,101635,4099.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,4,8,4,Німеччина,8,Dunlop
+449,Continental PremiumContact 7 225/45 R17 94Y XL FR,260154,4339.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,16,4,16,Португалія,4,Continental
+450,Dunlop Sport MAXX RT 2 215/55 R17 98W,143426,4542.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,3,8,3,Словенія,8,Dunlop
+451,Goodyear Eagle Sport 2 UHP 235/40 R19 96Y XL FP,247530,5899.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+452,Michelin Primacy 5 235/45 R18 98Y XL,259078,7669.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+453,Kapsen HD918 185/55 R15 82V,233062,1462.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+454,Arivo Transito ARZ 6-C 215/65 R15C 104/102R,230304,2449.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+455,Kapsen H202 ComfortMax A/S 225/70 R16 103T,201908,2599.00,https://infoshina.com.ua/media/images/thumbs/eT7Mk2BW0prW.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+456,Kapsen HP7 265/60 R18 114V XL,243476,3689.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+457,Arivo Ultra ARZ5 255/55 R19 111V XL FR,230275,3799.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+458,Kapsen RS26 255/55 R20 110W FR,205980,4049.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+459,Nokian Tyres Cargoproof C 215/65 R16C 109/107T,259378,4866.00,https://infoshina.com.ua/media/images/thumbs/9MGB4XpvdAgi.750x750.jpg,літні,,2025,True,17,12,17,Фінляндія,12,Nokian Tyres
+460,Continental PremiumContact 6 245/45 R17 95Y FR,140905,6789.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+461,Continental PremiumContact 6 235/45 R18 94V,221524,6789.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+462,Funtoma Roadfun 195/50 R15 82V,244550,2052.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+463,Kapsen RS26 215/55 R18 99W XL,161824,2645.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+464,Arivo Ultra ARZ4 235/40 R19 96W XL FR,229756,2799.00,https://infoshina.com.ua/media/images/thumbs/L0iwo64rpLMB.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+465,Funtoma Roadfun Sport 235/55 R17 103W,261206,3031.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+466,Kapsen HP7 245/65 R17 111H,243063,3299.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+467,Goodyear Eagle Sport 2 205/55 R17 95V XL,249498,4589.00,https://infoshina.com.ua/media/images/thumbs/Eagle_Sport_2_photo1_kQ6pn5N.750x750.jpg,літні,,2025,True,2,1,2,Польща,1,Goodyear
+468,Dunlop Sport MAXX RT 2 235/60 R17 106V XL,202575,4779.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+469,Barum Bravuris 6 235/60 R18 103V,257653,4789.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,8,11,8,Франція,11,Barum
+470,Michelin Agilis 3 195/60 R16C 99/97H,215882,5999.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2024,True,7,2,7,Італія,2,Michelin
+471,Michelin Primacy 5 235/55 R19 105W XL FRV,263064,7449.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+472,Michelin Pilot Sport 5 255/40 R20 101Y XL,230201,10559.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,13,2,13,Угорщина,2,Michelin
+473,Michelin Pilot Sport 5 275/40 R18 103Y XL RG,230200,10889.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+474,Continental PremiumContact 6 325/40 R22 114Y MO FR,196241,17639.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+475,Kapsen HD918 195/55 R16 91V XL,251673,1665.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+476,Arivo Terrano ARV H/T 215/70 R16 100H FR,230314,2899.00,https://infoshina.com.ua/media/images/thumbs/k14DMEWsg4VI.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+477,Arivo Traverso ARV H/T 235/65 R18 110H XL,230323,3339.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+478,Debica Presto UHP 2 205/45 R17 88W XL FP,142160,3389.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2024,True,3,3,3,Словенія,3,Debica
+479,Arivo Ultra ARZ5 255/45 R19 100W FR,206259,3389.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+480,Dunlop Sport MAXX RT 2 225/55 R17 97Y,124227,4559.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,3,8,3,Словенія,8,Dunlop
+481,Dunlop Sport MAXX RT 2 225/45 R18 95Y,124223,5339.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,3,8,3,Словенія,8,Dunlop
+482,Continental PremiumContact 7 215/65 R17 99V FR,229129,5339.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+483,Continental EcoContact 6 205/65 R16 95H,199567,5689.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiEcoContact-6-1.750x750.jpg,літні,,2025,True,11,4,11,Румунія,4,Continental
+484,Goodyear Eagle F1 Asymmetric 6 225/50 R17 94Y FP,225703,5889.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+485,Continental PremiumContact 7 225/55 R17 101Y XL FR,229110,6279.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,11,4,11,Румунія,4,Continental
+486,Goodyear EfficientGrip 2 SUV 235/50 R19 103V,225815,6889.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+487,Continental SportContact 7 225/40 R19 93Y XL FR,229131,7889.00,,літні,,2025,True,16,4,16,Португалія,4,Continental
+488,Goodyear EfficientGrip 2 SUV 275/50 R21 113V XL,230010,11999.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+489,Arivo Premio Arzero 195/50 R16 88V XL,230241,1939.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+490,Kapsen S2000 235/45 R17 97W,147384,2339.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+491,Kapsen RS01 215/65 R15C 104/102T,147395,2444.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+492,Kapsen K3000 245/45 R17 99W XL FR,231554,2899.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+493,Continental UltraContact 195/60 R15 88H,227439,3999.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+494,Arivo Ultra ARZ5 315/40 R21 115V XL FR,230297,4689.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+495,Barum Bravuris 6 235/45 R18 98Y XL,257647,4759.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,8,11,8,Франція,11,Barum
+496,Goodyear Eagle Sport 2 UHP 245/45 R17 99Y XL FP,247014,4843.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+497,Goodyear Eagle Sport 2 UHP 245/45 R18 100Y XL FP,259601,5229.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+498,Continental UltraContact 215/60 R17 96H FR,235633,5449.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+499,Continental ContiVanContact 100 215/65 R16C 106/104T,125942,6239.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+500,Michelin Primacy 5 235/55 R18 100V,263355,6339.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+501,Michelin Pilot Sport 5 255/35 R20 97Y XL RG,230181,8899.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+502,Goodyear EfficientGrip 2 SUV 275/60 R20 115H,227969,10229.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+503,Continental PremiumContact 7 285/40 R21 109Y XL FR,230118,12789.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+504,Kapsen K737 165/60 R14 75H,217254,1141.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+505,Kapsen K737 185/70 R13 86T,201940,1466.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+506,Funtoma Roadfun 165/70 R13 79T,230177,1593.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+507,Kapsen K737 185/55 R16 83V,231552,1645.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+508,Arivo Ultra ARZ5 225/40 R18 92W XL,243722,2299.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+509,Kapsen S2000 245/45 R17 99W,148315,2449.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+510,Barum Bravuris 6 205/55 R16 91V,257634,2659.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,10,11,10,Словаччина,11,Barum
+511,Michelin Primacy 4 195/55 R15 85V,229405,4689.00,https://infoshina.com.ua/media/images/thumbs/Gx3kZHLzQIDD.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+512,Michelin Pilot Sport 4 SUV 275/50 R21 113V XL,182877,17229.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+513,Kapsen RS01 175/70 R14C 95/93T,243521,1789.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+514,Arivo Ultra ARZ5 215/45 R17 91W XL FR,233193,2159.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+515,Kapsen S2000 235/50 R17 100W XL,147385,2445.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+516,Funtoma Roadfun 205/60 R15 91V,230212,2542.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2023,True,1,7,1,Туреччина,7,Funtoma
+517,Kapsen S2000 245/40 R18 97W XL,148314,2599.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+518,Arivo Ultra ARZ5 235/50 R17 100W XL,230263,2659.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+519,Funtoma Roadfun 195/50 R16 88V,230474,2718.00,https://infoshina.com.ua/media/images/thumbs/fHQUmRsOtoLh.750x750.jpg,літні,,2024,True,1,7,1,Туреччина,7,Funtoma
+520,Arivo Traverso ARV H/T 235/60 R17 106H XL,230322,2889.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+521,Kapsen HP7 235/70 R16 106H,242895,3186.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+522,Arivo Traverso ARV H/T 235/70 R16 106H XL,229760,3189.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+523,Nokian Tyres Cargoproof C 195/70 R15C 104/102R,261249,3389.00,https://infoshina.com.ua/media/images/thumbs/9MGB4XpvdAgi.750x750.jpg,літні,,2024,True,17,12,17,Фінляндія,12,Nokian Tyres
+524,Goodyear Eagle Sport 2 UHP 225/40 R18 92Y XL FP,259594,3449.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+525,Dunlop Sport MAXX RT 2 225/40 R18 92Y XL,243821,3670.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,4,8,4,Німеччина,8,Dunlop
+526,Dunlop Sport BluResponse 205/50 R17 89V,103425,3767.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2024,True,3,8,3,Словенія,8,Dunlop
+527,Barum Bravuris 6 215/55 R17 94V,263373,3889.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,11,11,11,Румунія,11,Barum
+528,Arivo Traverso ARV H/T 285/60 R18 116H,229767,4459.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+529,Michelin Primacy 5 225/40 R18 92Y XL,255732,4736.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+530,Michelin Primacy 5 225/50 R17 98W XL,259072,5939.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+531,Continental PremiumContact 7 225/45 R18 95Y XL FR,231982,6559.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,16,4,16,Португалія,4,Continental
+532,Continental PremiumContact 6 275/55 R19 111W MO FR,180823,9529.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2023,True,18,4,18,США,4,Continental
+533,Continental SportContact 7 275/35 R19 100Y XL FR,226619,10889.00,,літні,,2024,True,10,4,10,Словаччина,4,Continental
+534,Kapsen K3000 235/50 R19 103W XL,216492,3389.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+535,Kapsen RS26 275/45 R21 110W XL FR,216287,4099.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+536,Continental UltraContact 235/55 R18 100H FR,255690,6189.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,8,4,8,Франція,4,Continental
+537,Michelin Primacy 5 225/45 R18 95W XL,259070,6699.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+538,Michelin Pilot Sport 5 235/35 R19 91Y XL RG,230180,6999.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,19,2,19,Сербія,2,Michelin
+539,Michelin Primacy 5 225/60 R17 103V XL,259546,7239.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+540,Michelin Pilot Sport 4 SUV 255/55 R19 111V XL FR,184967,8229.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+541,Arivo Premio ARZ 1 145/65 R15 72T,257176,1359.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+542,Arivo Transito ARZ 6-M 155/80 R13C 90/88Q,242832,1389.00,https://infoshina.com.ua/media/images/thumbs/E6Sw2rWjGrQM.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+543,Kapsen HD918 185/70 R13 86T,235321,1435.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+544,Kapsen K737 185/55 R15 82V,201707,1689.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+545,Kapsen K737 205/50 R16 87V,243469,1999.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+546,Kapsen K3000 195/50 R16 88V XL,243480,2099.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+547,Kapsen K3000 215/45 R17 91W XL FR,216491,2339.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+548,Dunlop Sport MAXX RT 2 225/45 R17 94Y,124233,3449.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,4,8,4,Німеччина,8,Dunlop
+549,Kapsen RS26 245/50 R20 102Y,148320,3809.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+550,Arivo Ultra ARZ5 275/50 R20 113V XL,230284,4499.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+551,Dunlop Sport MAXX RT 2 245/45 R17 99Y XL,227083,5066.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+552,Continental SportContact 7 245/40 R18 97Y XL FR,232275,6229.00,,літні,,2024,True,14,4,14,Чехія,4,Continental
+553,Continental PremiumContact 7 215/55 R18 99V XL FR,229126,6389.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,8,4,8,Франція,4,Continental
+554,Michelin Primacy 5 235/50 R18 97V,259080,6799.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+555,Michelin Pilot Sport 5 225/45 R18 95W XL MO,262703,6889.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+556,Continental PremiumContact 6 245/50 R19 101Y FR,164032,8779.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+557,Goodyear EfficientGrip 2 SUV 245/45 R20 103V XL FP,230001,9539.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+558,Goodyear Eagle F1 Asymmetric 6 275/35 R19 100Y XL FP,244050,10689.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+559,Continental PremiumContact 6 275/40 R22 107Y XL Run Flat *,232469,14889.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,18,4,18,США,4,Continental
+560,Michelin Pilot Sport 4 SUV 295/35 R23 108Y XL,182884,16899.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+561,Kapsen HD918 175/65 R15 84H,242891,1399.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+562,Funtoma VanFun 195/80 R14C 106/104R,245091,2513.00,https://infoshina.com.ua/media/images/thumbs/WG7jTopFYrb1.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+563,Kapsen E300 235/45 R18 98W XL,249518,2639.00,https://infoshina.com.ua/media/images/thumbs/nnR2Nhtr6cmV.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+564,Michelin Primacy 5 205/55 R16 91W,259345,4239.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+565,Kapsen K3000 315/35 R21 111Y XL FR,215402,4299.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+566,Debica Presto UHP 2 255/35 R19 96Y XL FP,244042,5066.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2024,True,4,3,4,Німеччина,3,Debica
+567,Michelin Primacy 5 215/65 R16 98H,259067,5189.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+568,Goodyear EfficientGrip 2 SUV 255/60 R17 106V,225826,6339.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+569,Dunlop Sport MAXX RT 2 255/35 R20 97Y,142087,6674.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+570,Goodyear EfficientGrip Performance 2 225/50 R18 99V XL FP,217207,6674.00,https://infoshina.com.ua/media/images/thumbs/Goodyear_EfficientGrip_Performance_2_90.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+571,Goodyear EfficientGrip 2 SUV 245/65 R17 111H XL,227443,6779.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+572,Michelin Primacy 5 235/50 R19 103W XL FRV,262706,7339.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+573,Michelin Primacy 4+ 245/65 R17 111H XL RG,231506,7389.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+574,Goodyear EfficientGrip 2 SUV 265/60 R18 110V,236099,7889.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+575,Goodyear Eagle F1 Asymmetric 6 275/40 R19 105Y XL,241037,9339.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+576,Goodyear EfficientGrip 275/40 R19 101Y M0 Run Flat,88055,9889.00,https://infoshina.com.ua/media/images/thumbs/Goodyear-EfficientGrip.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+577,Continental SportContact 7 265/35 R20 99Y XL FR,226640,11779.00,,літні,,2025,True,14,4,14,Чехія,4,Continental
+578,Goodyear EfficientGrip 2 SUV 285/45 R22 114H XL,227425,12889.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2023,True,4,1,4,Німеччина,1,Goodyear
+579,Kapsen HD918 155/80 R13 79T,247526,1139.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+580,Kapsen K737 155/65 R14 75T,187860,1219.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+581,Kapsen K737 175/65 R15 84H,187861,1490.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+582,Arivo Premio ARZ 1 195/70 R14 91H,243166,1936.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+583,Kapsen RS01 175/80 R14C 99/98T,242910,1999.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+584,Arivo Premio ARZ 1 215/70 R15 98H,242841,2459.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+585,Kapsen K3000 275/40 R19 105W XL,246828,3629.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+586,Kapsen RS26 275/35 R20 102Y FR,164010,3999.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+587,Kapsen K3000 245/40 R19 98Y XL FR Run Flat,217005,4889.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+588,Continental UltraContact 215/50 R17 95W XL FR,235626,5889.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,8,4,8,Франція,4,Continental
+589,Continental PremiumContact 6 235/50 R19 99V VOL,161316,6889.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2025,True,10,4,10,Словаччина,4,Continental
+590,Continental UltraContact 255/55 R18 109Y XL FR,259416,6889.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,4,4,4,Німеччина,4,Continental
+591,Continental ContiVanContact 100 215/75 R16C 116/114R,104230,6899.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+592,Michelin Pilot Sport 4 SUV 265/40 R21 105Y XL,182866,13449.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2025,True,19,2,19,Сербія,2,Michelin
+593,Continental SportContact 7 315/30 R22 107Y XL FR,242883,15239.00,,літні,,2024,True,14,4,14,Чехія,4,Continental
+594,Arivo Premio Arzero 165/65 R15 81H,242833,1459.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+595,Arivo Premio Arzero 185/55 R16 87V XL,231690,1689.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+596,Arivo Transito ARZ 6-C 195/65 R16C 104/102T,230299,2499.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+597,Arivo Traverso ARV H/T 225/70 R16 107H XL,230317,2899.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2025,True,5,5,5,Китай,5,Arivo
+598,Debica Presto UHP 2 205/40 R17 84W XL FP,141164,2989.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2025,True,2,3,2,Польща,3,Debica
+599,Barum Bravuris 6 205/60 R16 92H,263354,3659.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,4,11,4,Німеччина,11,Barum
+600,Barum Bravuris 6 205/65 R16 95H,262773,3999.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,4,11,4,Німеччина,11,Barum
+601,Kapsen RS26 275/60 R20 119V FR,148692,4295.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+602,Michelin Primacy 5 205/55 R17 91V,255729,5789.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+603,Dunlop Sport MAXX RT 2 255/45 R18 99Y,126142,5999.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+604,Michelin Primacy 5 235/55 R17 99V,259081,6589.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+605,Goodyear Eagle Sport 2 UHP 245/40 R19 98Y XL FP,248051,7004.00,https://infoshina.com.ua/media/images/thumbs/2AdSQZb0tp1H.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+606,Continental PremiumContact 7 265/50 R19 110Y XL FR,246373,8789.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,14,4,14,Чехія,4,Continental
+607,Goodyear Eagle F1 Asymmetric 6 275/45 R20 110Y XL,247755,9589.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+608,Continental SportContact 7 265/40 R21 101Y FR MGT,226630,12029.00,,літні,,2024,True,16,4,16,Португалія,4,Continental
+609,Arivo Premio ARZ 1 155/70 R14 77T,246639,1329.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+610,Arivo Premio ARZ 1 165/70 R13 79T,238217,1349.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+611,Arivo Premio ARZ 1 175/55 R15 77V,254951,1539.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+612,Arivo Ultra ARZ5 215/55 R16 97W XL,254965,2289.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+613,Arivo Transito ARZ 6-C 215/60 R17C 109/107T,242839,2899.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+614,Barum Bravuris 6 195/55 R16 87H,259242,3349.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,11,11,11,Румунія,11,Barum
+615,Funtoma Roadfun Sport 245/45 R18 100W,260432,3667.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+616,Arivo Traverso ARV H/T 245/65 R17 111H XL,230327,3889.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+617,Barum Bravuris 6 215/55 R18 99V XL,257637,4329.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,8,11,8,Франція,11,Barum
+618,Kapsen K3000 315/40 R21 115W XL,242908,4500.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2023,True,5,6,5,Китай,6,Kapsen
+619,Kapsen RS26 275/50 R21 113W XL,243464,4505.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+620,Continental ContiVanContact 100 215/70 R15C 109/107S,105818,5889.00,https://infoshina.com.ua/media/images/thumbs/hAo8XZVHgZdz.750x750.jpg,літні,,2024,True,14,4,14,Чехія,4,Continental
+621,Goodyear EfficientGrip 2 SUV 235/60 R17 102V,226829,6289.00,https://infoshina.com.ua/media/images/thumbs/0VlFklHRPuFH.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+622,Continental UltraContact 225/55 R16 95V XL FR,229133,6559.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,8,4,8,Франція,4,Continental
+623,Continental PremiumContact 7 225/50 R18 99W XL FR,229132,7389.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+624,Continental PremiumContact 7 225/45 R19 96Y XL FR,232278,7789.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+625,Michelin Pilot Sport 4 SUV 235/50 R19 103Y XL,246532,7789.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,2,2,2,Польща,2,Michelin
+626,Continental UltraContact 235/45 R19 99V XL FR,229137,8779.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+627,Continental SportContact 7 235/35 R20 92Y XL FR,230806,9239.00,,літні,,2025,True,14,4,14,Чехія,4,Continental
+628,Continental PremiumContact 6 245/45 R20 99V FR,180821,9559.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2025,True,16,4,16,Португалія,4,Continental
+629,Michelin Primacy 4+ 255/45 R18 99Y,225819,9599.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+630,Continental SportContact 7 255/35 R21 98Y XL FR,231683,11899.00,,літні,,2024,True,14,4,14,Чехія,4,Continental
+631,Goodyear Eagle F1 Asymmetric 6 275/40 R22 108Y XL,248266,12849.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+632,Kapsen K737 195/50 R15 82V,201708,1547.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+633,Arivo Premio ARZ 1 215/55 R16 93V,256996,2062.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+634,Kapsen S2000 255/35 R19 96Y,160877,2979.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+635,Arivo Ultra ARZ5 255/45 R18 99W,232077,2999.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+636,Kapsen RS26 235/50 R19 103W XL,220427,3229.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+637,Arivo Ultra ARZ5 235/50 R19 103V XL,232071,3229.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+638,Arivo Traverso ARV H/T 245/55 R19 107V XL,254907,3399.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+639,Barum Bravuris 6 205/50 R17 93V XL,260139,3589.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,10,11,10,Словаччина,11,Barum
+640,Arivo Traverso ARV H/T 255/65 R17 110H,231692,3729.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+641,Continental UltraContact 185/60 R15 84H,226745,4229.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+642,Arivo Ultra ARZ5 275/60 R20 119H XL FR,230288,4449.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+643,Kapsen RS26 275/50 R22 111W,225753,4999.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+644,Continental UltraContact 205/50 R17 89V,229120,5339.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+645,Continental UltraContact 235/65 R17 104W FR,256640,5889.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,10,4,10,Словаччина,4,Continental
+646,Continental UltraContact 235/50 R18 97V FR,226700,6449.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2023,True,10,4,10,Словаччина,4,Continental
+647,Dunlop Sport MAXX RT 2 275/35 R19 100Y,142389,7229.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2025,True,15,8,15,Люксембург,8,Dunlop
+648,Michelin Agilis 3 225/65 R16C 112/110T,246708,7229.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+649,Michelin Primacy 5 225/50 R18 95V FRV,262705,7599.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+650,Continental UltraContact 235/40 R19 96W XL,257404,7899.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+651,Goodyear Eagle F1 Asymmetric 6 265/35 R18 97Y XL FP,230138,8898.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+652,Michelin Pilot Sport 5 255/45 R19 104Y XL RG,230871,9979.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,19,2,19,Сербія,2,Michelin
+653,Continental PremiumContact 6 315/35 R22 111Y XL Run Flat *,232472,19099.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,18,4,18,США,4,Continental
+654,Arivo Ultra ARZ5 245/45 R17 99W XL,243724,2779.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+655,Arivo Ultra ARZ5 235/35 R19 91W XL FR,230259,2889.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+656,Arivo Traverso ARV H/T 235/55 R18 104H XL FR,250372,3039.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+657,Dunlop Sport BluResponse 185/55 R15 82V,101624,3137.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2024,True,2,8,2,Польща,8,Dunlop
+658,Kapsen E300 245/45 R19 102W XL,257925,3339.00,https://infoshina.com.ua/media/images/thumbs/nnR2Nhtr6cmV.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+659,Kapsen RS26 265/45 R20 108Y XL,148694,3835.00,https://infoshina.com.ua/media/images/thumbs/HWD7f4GSE056.750x750.jpg,літні,,2023,True,5,6,5,Китай,6,Kapsen
+660,Kapsen K3000 225/50 R18 99W XL Run Flat,243064,3889.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+661,Kapsen K3000 225/50 R17 98W XL FR Run Flat,191680,3999.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+662,Arivo Traverso ARV H/T 265/70 R17 115T,231693,3999.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+663,Arivo Ultra Sport ARV7 255/55 R20 110V XL,232073,4199.00,https://infoshina.com.ua/media/images/thumbs/FvNfKCyDoHCa.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+664,Arivo Ultra ARZ5 285/50 R20 116V XL FR,230291,4489.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+665,Continental SportContact 7 225/40 R18 92Y XL FR,232272,4779.00,,літні,,2025,True,16,4,16,Португалія,4,Continental
+666,Goodyear Eagle F1 Asymmetric 6 255/45 R18 99Y,230165,7889.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+667,Goodyear Eagle F1 Asymmetric 6 255/50 R20 109H XL,259620,8959.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+668,Michelin Pilot Sport 5 235/45 R19 99Y XL,227768,10489.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+669,Michelin Pilot Sport 4 SUV 235/50 R21 101W,238351,15889.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2023,True,12,2,12,Таїланд,2,Michelin
+670,Kapsen H202 ComfortMax A/S 155/80 R13 79T,216810,1189.00,https://infoshina.com.ua/media/images/thumbs/eT7Mk2BW0prW.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+671,Arivo Ultra ARZ5 195/45 R16 84W XL,252786,1899.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+672,Kapsen S2000 215/45 R17 91W FR,183790,2189.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+673,Dunlop Sport BluResponse 195/50 R15 82H,100475,2449.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,3,8,3,Словенія,8,Dunlop
+674,Arivo Ultra ARZ5 225/55 R16 99W XL FR,254993,2449.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+675,Kapsen S2000 235/35 R19 91W,183791,2889.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+676,Arivo Ultra ARZ5 245/50 R18 104W XL,257179,3089.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+677,Kapsen S2000 255/35 R20 97W XL,242916,3449.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+678,Kapsen HP7 255/60 R17 106H,260325,3489.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+679,Kapsen HP7 255/70 R16 111H,242897,3589.00,https://infoshina.com.ua/media/images/thumbs/j3tHTZsg21Lm.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+680,Continental UltraContact 175/65 R15 84T,235592,3779.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,14,4,14,Чехія,4,Continental
+681,Arivo Ultra Sport ARV7 275/40 R22 107W XL FR,231200,4229.00,https://infoshina.com.ua/media/images/thumbs/FvNfKCyDoHCa.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+682,Nokian Tyres Cargoproof C 195/60 R16C 99/97H,262790,4308.00,https://infoshina.com.ua/media/images/thumbs/9MGB4XpvdAgi.750x750.jpg,літні,,2025,True,17,12,17,Фінляндія,12,Nokian Tyres
+683,Continental UltraContact 225/45 R17 91Y FR,235637,4349.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,8,4,8,Франція,4,Continental
+684,Barum Bravuris 6 235/50 R18 97V,257648,4789.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,8,11,8,Франція,11,Barum
+685,Arivo Ultra ARZ5 275/40 R21 107W XL FR,230281,4889.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+686,Arivo Ultra ARZ5 275/55 R19 111V,231201,4889.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+687,Kapsen K3000 275/40 R19 105W XL FR Run Flat,215401,4999.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+688,Continental PremiumContact 7 235/45 R17 97Y XL FR,232281,5398.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,10,4,10,Словаччина,4,Continental
+689,Debica Presto UHP 2 255/40 R19 100Y XL,258782,5599.00,https://infoshina.com.ua/media/images/thumbs/q5DnAGjLcm0E.750x750.jpg,літні,,2024,True,4,3,4,Німеччина,3,Debica
+690,Michelin Primacy 5 215/50 R17 91V,259352,5689.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,4,2,4,Німеччина,2,Michelin
+691,Goodyear Eagle F1 Asymmetric 6 255/55 R18 109Y XL,259621,6489.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,8,1,8,Франція,1,Goodyear
+692,Barum Bravuris 6 275/45 R20 110Y XL,257659,6998.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2024,True,14,11,14,Чехія,11,Barum
+693,Continental SportContact 7 255/35 R18 94Y XL,244633,7789.00,,літні,,2024,True,10,4,10,Словаччина,4,Continental
+694,Continental SportContact 7 255/35 R20 97Y XL FR,226707,8249.00,,літні,,2024,True,10,4,10,Словаччина,4,Continental
+695,Goodyear Eagle F1 Asymmetric 6 235/50 R20 104T XL FP,259612,8449.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,3,1,3,Словенія,1,Goodyear
+696,Continental SportContact 7 245/35 R20 95Y XL,229410,8999.00,,літні,,2024,True,4,4,4,Німеччина,4,Continental
+697,Goodyear Eagle F1 Asymmetric 6 245/50 R19 105Y XL *,252084,9155.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+698,Continental PremiumContact 6 275/45 R21 107V FR,234017,9529.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2025,True,16,4,16,Португалія,4,Continental
+699,Continental PremiumContact 6 245/50 R19 101Y Run Flat,217581,9601.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,4,4,4,Німеччина,4,Continental
+700,Continental SportContact 7 275/35 R22 104Y XL FR,242882,12449.00,,літні,,2025,True,14,4,14,Чехія,4,Continental
+701,Continental SportContact 7 275/35 R21 103Y XL FR ND0,246896,12999.00,,літні,,2025,True,4,4,4,Німеччина,4,Continental
+702,Kapsen K737 165/65 R13 77T,215380,1220.00,https://infoshina.com.ua/media/images/thumbs/L7kLp5OoAmGM.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+703,Arivo Premio Arzero 165/60 R14 75H,246643,1335.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+704,Arivo Premio ARZ 1 165/80 R13 83T,254963,1339.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+705,Arivo Premio Arzero 165/60 R15 81H XL,248309,1459.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+706,Arivo Premio Arzero 175/60 R15 81H,231185,1659.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+707,Kapsen K3000 205/40 R17 84W XL,256075,1999.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+708,Arivo Premio ARZ 1 205/70 R14 95H,242837,2199.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+709,Kapsen S2000 215/40 R18 89Y,183789,2389.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+710,Kapsen K3000 215/55 R18 99W XL,251501,2699.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+711,Arivo Traverso ARV H/T 255/65 R16 109H,260549,3559.00,https://infoshina.com.ua/media/images/thumbs/xxoAzH6JUwJg.750x750.jpg,літні,,2025,True,5,5,5,Китай,5,Arivo
+712,Kapsen K3000 275/40 R20 106W XL,260189,3639.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+713,Funtoma Roadfun Sport 245/45 R19 102W,263350,3804.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+714,Barum Bravuris 6 245/45 R18 100Y XL,257657,4779.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,4,11,4,Німеччина,11,Barum
+715,Continental UltraContact 195/55 R16 87H,235607,4789.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,11,4,11,Румунія,4,Continental
+716,Kapsen K3000 245/50 R18 104W XL FR Run Flat,246976,4889.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+717,Barum Bravuris 6 235/55 R18 100V,257651,4889.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,8,11,8,Франція,11,Barum
+718,Continental EcoContact 6 225/55 R17 97W *,259635,5889.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiEcoContact-6-1.750x750.jpg,літні,,2025,True,10,4,10,Словаччина,4,Continental
+719,Michelin Primacy 4+ 215/45 R18 93W,226013,6389.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Primacy_4_2_Shsv2Fx.750x750.jpg,літні,,2024,True,9,2,9,Іспанія,2,Michelin
+720,Goodyear Eagle F1 Asymmetric 6 225/55 R18 98Y FP,244926,6439.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,15,1,15,Люксембург,1,Goodyear
+721,Continental UltraContact 155/70 R19 84Q FR,255688,6599.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+722,Goodyear Eagle F1 Asymmetric 6 245/45 R17 95Y FP,239593,6779.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+723,Goodyear Eagle F1 Asymmetric 6 245/50 R18 104H XL,247754,7539.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,15,1,15,Люксембург,1,Goodyear
+724,Michelin Primacy 5 225/45 R19 96W XL FRV,262704,8349.00,https://infoshina.com.ua/media/images/thumbs/JrCNkUK2t4b8.750x750.jpg,літні,,2025,True,9,2,9,Іспанія,2,Michelin
+725,Continental PremiumContact 7 255/40 R18 99Y XL FR,249601,8589.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2025,True,8,4,8,Франція,4,Continental
+726,Continental SportContact 7 245/45 R19 102Y XL FR,250423,8779.00,,літні,,2024,True,16,4,16,Португалія,4,Continental
+727,Goodyear Eagle F1 Asymmetric 6 265/45 R20 108T XL FP,259623,9839.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,3,1,3,Словенія,1,Goodyear
+728,Continental SportContact 7 275/40 R19 105Y XL FR MO1,247136,9889.00,,літні,,2025,True,4,4,4,Німеччина,4,Continental
+729,Goodyear Eagle F1 Asymmetric 6 295/35 R21 107Y XL,262758,9999.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,4,1,4,Німеччина,1,Goodyear
+730,Michelin Pilot Sport 4 SUV 245/45 R21 104W XL,182855,11549.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,13,2,13,Угорщина,2,Michelin
+731,Continental PremiumContact 6 265/45 R21 108H XL FR AO,259636,11689.00,https://infoshina.com.ua/media/images/thumbs/Continental-ContiPremiumContact-6-1.750x750.jpg,літні,,2024,True,16,4,16,Португалія,4,Continental
+732,Arivo Premio ARZ 1 145/70 R13 71T,246246,1199.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+733,Arivo Premio ARZ 1 145/80 R13 75T,246792,1299.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+734,Arivo Premio ARZ 1 165/65 R14 79T,257074,1559.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+735,Kapsen S2000 205/45 R17 88W XL,260190,2239.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+736,Arivo Transito ARZ 6-C 195/80 R15C 106/104R,242835,2339.00,https://infoshina.com.ua/media/images/thumbs/okYXahpaGC8B.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+737,Arivo Ultra ARZ5 245/50 R19 105V XL,252769,3449.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+738,Arivo Ultra Sport ARV7 265/35 R22 102W XL,260428,3789.00,https://infoshina.com.ua/media/images/thumbs/FvNfKCyDoHCa.750x750.jpg,літні,,2025,True,5,5,5,Китай,5,Arivo
+739,Arivo Ultra ARZ5 225/45 R18 95W XL FR Run Flat,231202,3889.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+740,Funtoma Roadfun Sport 245/40 R19 98W,263352,4303.00,https://infoshina.com.ua/media/images/thumbs/GyexG94VzpUW.750x750.jpg,літні,,2025,True,1,7,1,Туреччина,7,Funtoma
+741,Nokian Tyres Cargoproof C 215/70 R15C 109/107S,261253,4308.00,https://infoshina.com.ua/media/images/thumbs/9MGB4XpvdAgi.750x750.jpg,літні,,2025,True,17,12,17,Фінляндія,12,Nokian Tyres
+742,Arivo Ultra Sport ARV7 265/40 R22 106V XL,208374,4339.00,https://infoshina.com.ua/media/images/thumbs/FvNfKCyDoHCa.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+743,Barum Bravuris 6 215/45 R18 93Y XL,257635,4339.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2025,True,8,11,8,Франція,11,Barum
+744,Continental UltraContact 225/40 R18 92W XL FR,233778,4769.00,https://infoshina.com.ua/media/images/thumbs/N4HbwMfu6qTY.750x750.jpg,літні,,2025,True,11,4,11,Румунія,4,Continental
+745,Arivo Ultra ARZ5 275/50 R21 113V XL FR,230285,4889.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+746,Kapsen K3000 275/35 R19 100Y XL Run Flat,232271,4889.00,https://infoshina.com.ua/media/images/thumbs/Ctj8nRk7lYg4.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+747,Arivo Ultra ARZ5 275/55 R20 117V XL,230286,4999.00,https://infoshina.com.ua/media/images/thumbs/MyvegIGh4a3Z.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+748,Barum Bravuris 6 245/40 R19 98Y XL,257656,5399.00,https://infoshina.com.ua/media/images/thumbs/r02WMRfV7SqU.750x750.jpg,літні,,2024,True,16,11,16,Португалія,11,Barum
+749,Continental PremiumContact 7 215/50 R18 92V,230376,6449.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,4,4,4,Німеччина,4,Continental
+750,Michelin Pilot Sport 4 SUV 235/55 R19 105W XL GOE,262711,7399.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,12,2,12,Таїланд,2,Michelin
+751,Goodyear Eagle F1 Asymmetric 6 245/50 R18 104Y XL FP,249085,7499.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,15,1,15,Люксембург,1,Goodyear
+752,Michelin Agilis 3 215/60 R17C 109/107T,212272,7789.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Agilis_3_1.750x750.jpg,літні,,2025,True,2,2,2,Польща,2,Michelin
+753,Dunlop Sport MAXX RT 2 255/40 R20 101Y XL,259583,7999.00,https://infoshina.com.ua/media/images/thumbs/Dunlop-Sport-MAXX-RT-2.750x750.jpg,літні,,2024,True,4,8,4,Німеччина,8,Dunlop
+754,Michelin Primacy 4 255/40 R19 100W XL VOL,226171,8449.00,https://infoshina.com.ua/media/images/thumbs/Gx3kZHLzQIDD.750x750.jpg,літні,,2023,True,9,2,9,Іспанія,2,Michelin
+755,Goodyear Eagle F1 Asymmetric 6 265/50 R19 110Y XL FP,259624,8539.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2025,True,4,1,4,Німеччина,1,Goodyear
+756,Michelin Pilot Sport 4 SUV 235/50 R20 104V XL,259776,8559.00,https://infoshina.com.ua/media/images/thumbs/DhYsWPjLuikO.750x750.jpg,літні,,2024,True,7,2,7,Італія,2,Michelin
+757,Continental PremiumContact 7 255/55 R20 110Y XL FR,244352,11159.00,https://infoshina.com.ua/media/images/thumbs/K6HaCfVjLZ9Y.750x750.jpg,літні,,2024,True,10,4,10,Словаччина,4,Continental
+758,Goodyear Eagle F1 Asymmetric 6 315/40 R21 115Y XL,249630,13889.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,літні,,2024,True,15,1,15,Люксембург,1,Goodyear
+759,Continental SportContact 7 285/40 R23 111Y XL FR,246598,16749.00,,літні,,2024,True,14,4,14,Чехія,4,Continental
+760,Arivo Premio Arzero 165/65 R13 77T,254991,1298.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+761,Kapsen RS03 DurableMax 175/80 R13 91/87M,260699,1589.00,https://infoshina.com.ua/media/images/thumbs/Hcb12329b574646c883cc26e9d603019dO.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+762,Kapsen RS01 175/65 R14C 90/88T,262835,1589.00,https://infoshina.com.ua/media/images/thumbs/rxkXtAggTdow.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+763,Arivo Premio ARZ 1 185/70 R13 86T,249477,1599.00,https://infoshina.com.ua/media/images/thumbs/ErID7kC1oyOO.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+764,Kapsen HD918 205/60 R14 88H,256182,1599.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+765,Arivo Premio Arzero 185/50 R16 81V,257070,1699.00,https://infoshina.com.ua/media/images/thumbs/TOg2I3CxXRlq.750x750.jpg,літні,,2024,True,5,5,5,Китай,5,Arivo
+766,Arivo Transito ARZ 6-X 165/70 R14C 89/87R,260552,1699.00,https://infoshina.com.ua/media/images/thumbs/ptUdsyylSjWB.750x750.jpg,літні,,2025,True,5,5,5,Китай,5,Arivo
+767,Kapsen S2000 195/55 R16 91V,202434,1809.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+768,Kapsen S2000 195/45 R16 84V XL,260693,1889.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+769,Kapsen S2000 205/45 R16 87W,163052,1999.00,https://infoshina.com.ua/media/images/thumbs/KdZEn90jvFCJ.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
+770,Sunny NW631 225/45 R17 94H XL (шип),208338,0.00,https://infoshina.com.ua/media/images/thumbs/Sunny-NW631.750x750.jpg,зимові,,,False,5,13,5,Китай,13,Sunny
+771,Nexen WinGuard WinSpike 3 245/50 R19 105T XL (шип),240828,0.00,https://infoshina.com.ua/media/images/thumbs/Nexen-WinGuard-WinSpike-3.750x750.jpg,зимові,,,False,6,10,6,Корея,10,Nexen (Roadstone)
+772,Nexen WinGuard WinSpike 3 275/65 R18 116T (шип),238648,0.00,https://infoshina.com.ua/media/images/thumbs/Nexen-WinGuard-WinSpike-3.750x750.jpg,зимові,,,False,6,10,6,Корея,10,Nexen (Roadstone)
+773,Hankook Winter i*Pike RS2 W429 245/40 R18 97T (шип),175582,0.00,https://infoshina.com.ua/media/images/thumbs/Hankook_w429.750x750.jpg,зимові,,,False,6,14,6,Корея,14,Hankook
+774,Ling Long Green-Max Winter Grip 2 195/65 R15 95T XL (шип),241433,0.00,https://infoshina.com.ua/media/images/thumbs/Ling-Long-Green-Max-Winter-Grip-2.750x750.jpg,зимові,,,False,5,15,5,Китай,15,Ling Long
+775,Ling Long Green-Max Winter Grip 2 215/65 R16 98T (шип),242521,0.00,https://infoshina.com.ua/media/images/thumbs/Ling-Long-Green-Max-Winter-Grip-2.750x750.jpg,зимові,,,False,5,15,5,Китай,15,Ling Long
+776,Ling Long Green-Max Winter Grip 2 215/70 R16 100T (шип),238574,0.00,https://infoshina.com.ua/media/images/thumbs/Ling-Long-Green-Max-Winter-Grip-2.750x750.jpg,зимові,,,False,5,15,5,Китай,15,Ling Long
+777,Ling Long Green-Max Winter Grip 2 255/40 R19 100T XL (шип),238578,0.00,https://infoshina.com.ua/media/images/thumbs/Ling-Long-Green-Max-Winter-Grip-2.750x750.jpg,зимові,,,False,5,15,5,Китай,15,Ling Long
+778,Ling Long Green-Max Winter Grip 2 255/35 R20 97T XL (шип),238577,0.00,https://infoshina.com.ua/media/images/thumbs/Ling-Long-Green-Max-Winter-Grip-2.750x750.jpg,зимові,,,False,5,15,5,Китай,15,Ling Long
+779,Michelin X-Ice Snow SUV 255/40 R21 102H XL,249676,0.00,https://infoshina.com.ua/media/images/thumbs/Michelin-X-Ice-Snow-SUV-2.750x750.jpg,зимові,,,False,,2,0,,2,Michelin
+780,Petlas Snowmaster W651 215/55 R17 98W XL,200053,0.00,,зимові,,,False,1,16,1,Туреччина,16,Petlas
+781,Debica Presto HP2 215/55 R16 93V,124688,3661.00,https://infoshina.com.ua/media/images/thumbs/Debica_Presto_HP_2_0_degree.750x750.jpg,літні,,2024,True,4,3,4,Німеччина,3,Debica
+782,Michelin Pilot Sport 5 225/40 R18 92Y XL,225494,4589.00,https://infoshina.com.ua/media/images/thumbs/Michelin_Pilot_Sport_5_2.750x750.jpg,літні,,2025,True,7,2,7,Італія,2,Michelin
+783,Dunlop Sport BluResponse 185/65 R15 88H,101625,2679.00,https://infoshina.com.ua/media/images/thumbs/hnMXlCohfiR7.750x750.jpg,літні,,2025,True,8,8,8,Франція,8,Dunlop
+784,Goodyear Eagle F1 Asymmetric 6 305/30 R23 105Y XL FP,265768,19370.00,https://infoshina.com.ua/media/images/thumbs/wNHC2DQwragQ.750x750.jpg,,,,True,,18,0,,18,
+785,Kapsen HD918 205/65 R16 95H,243473,2189.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2024,True,5,6,5,Китай,6,Kapsen
+786,Kapsen HD918 185/65 R15 92H XL,256079,1599.00,https://infoshina.com.ua/media/images/thumbs/XiVc1bYAMrfy.750x750.jpg,літні,,2025,True,5,6,5,Китай,6,Kapsen
